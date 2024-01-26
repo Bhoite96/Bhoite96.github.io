@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhoite96/static/css/main.f855e6bc.css",
+    "main.js": "/bhoite96/static/js/main.eb23ad72.js",
+    "static/js/787.86f4797b.chunk.js": "/bhoite96/static/js/787.86f4797b.chunk.js",
+    "index.html": "/bhoite96/index.html",
+    "main.f855e6bc.css.map": "/bhoite96/static/css/main.f855e6bc.css.map",
+    "main.eb23ad72.js.map": "/bhoite96/static/js/main.eb23ad72.js.map",
+    "787.86f4797b.chunk.js.map": "/bhoite96/static/js/787.86f4797b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.eb23ad72.js"
+  ]
+}
